@@ -1,0 +1,11 @@
+# basic options
+title: Hyde'n Treasure
+author: dlemire60
+email: your-email@domain.com
+description: A test site for experimenting with Jekyll 
+twitter_username: dlemire60
+github_username:  dlemire60
+
+# Build settings
+markdown: kramdown
+theme: minima
